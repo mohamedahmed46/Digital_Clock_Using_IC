@@ -46,3 +46,7 @@ The adder ensures smooth transitions between counting units, like rolling over f
 - Adding an alarm system using additional counters and logic gates.
 - Integrating a reset button to initialize the clock.
 - Implementing a battery backup for uninterrupted operation.
+
+
+## Team work
+[drive] (https://drive.google.com/file/d/1RX41rQ0pNOSC-BwrSHSrXbwytzgQX31u/view?usp=sharing)
